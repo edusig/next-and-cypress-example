@@ -4,5 +4,9 @@
     "codeCoverage": {
       "url": "/api/__coverage__"
     }
+  },
+  "component": {
+    "testFiles": "**/*spec.{ts,tsx,js,jsx}",
+    "componentFolder": "components"
   }
 }
